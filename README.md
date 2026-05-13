@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s3933113&show_icons=true&locale=en&layout=compact&theme=highcontrast&hide_border=true" height="160" alt="top-langs" />
+  
 </p>
 
 <h6 align="left"> I’m currently learning <strong>Algorithms and Data structure.</strong> </h6>
